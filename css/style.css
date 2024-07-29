@@ -370,9 +370,9 @@ a:focus {
 }
 
 .client_section .client_container .img-box {
-  width: 250px;
+  width: 310px;
   border: 5px solid #7f7f31;
-  border-radius: 100%;
+  border-radius: 40%;
 }
 
 .client_section .client_container .img-box img {
